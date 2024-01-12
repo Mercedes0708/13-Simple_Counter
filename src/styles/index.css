@@ -28,7 +28,7 @@ body{
 }
 
 .container div{
-    background: rgba(248, 181, 225, 0.637);
+    background: rgba(228, 80, 5, 0.817);
     margin: 13px;
     width: 80px;
     border-radius: 15%;
@@ -37,9 +37,7 @@ body{
 }
 
 #clock {
-    background: rgba(248, 181, 225, 0.637);
+    background: rgba(232, 11, 11, 0.928);
     margin: 13px;
     width: 120px;
 }
-
-
